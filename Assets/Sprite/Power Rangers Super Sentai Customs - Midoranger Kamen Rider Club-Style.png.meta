@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 26b641e56ef5fd14f91a34143cbfdcf4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f81f8425f02b4a9a7bae5378274ae
+      internalID: -319279639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 280
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637f9597c9fd364ebd0053687465bf7
+      internalID: -1897149400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 280
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ac9dedebeeb34ea9ae29c06f80e9a
+      internalID: 493231049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ece79643eab4f4587121c6e2c1b888
+      internalID: 335516964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 280
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7c53a23394d74ca462f5a7981ebb4
+      internalID: 1596817838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab4d914ffb7ff14f9edd60be14341f9
+      internalID: 934842650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b392412a7da3846bf110b5cac10c24
+      internalID: -1817609565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 194
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8352cd08ae52ae947963b828f38e6eea
+      internalID: 1593364934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a9453ba1b516c46b0472c2d75e4f15
+      internalID: 747323531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f640134884dd84d44baa8b21e26e216d
+      internalID: -266930383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 154
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b3accf94356f42815362070c17760
+      internalID: -18899155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf553107e18d74caf6b4247b926099
+      internalID: -1505419145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f474c6048bdf42acb044e318ed535
+      internalID: 1761630737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 73
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e3330159c347b449413cc42a4878c0
+      internalID: -2079541164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 72
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b137a0dc3fd6e4f8e7e23006dfd668
+      internalID: -582719437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fe5fa2ff596b4b9ae7465cd812674
+      internalID: -191700894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef06e1fd783b04348899e4e0d4f6a93f
+      internalID: -928575636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af180e2723b99469e6f9ea1dddd440
+      internalID: -378162472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 40
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f213a0f6b211042a3807322ddfc17d
+      internalID: -476334826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235bd017a0b42844398c39509167835d
+      internalID: 329721454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_0: 1637089221
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_1: -379008988
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_10: -1897149400
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_11: 493231049
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_12: 335516964
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_13: 1596817838
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_14: 1949925571
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_15: 430339994
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_16: -350100668
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_17: -460399486
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_18: 934842650
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_19: -183669359
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_2: -319279639
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_20: 626338804
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_21: 455184860
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_22: 1765422918
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_23: -1611029510
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_24: -1877491164
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_25: 1226349128
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_26: -1817609565
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_27: 1593364934
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_28: 747323531
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_29: -1753678212
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_3: 686457851
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_30: -1454577021
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_31: 339284108
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_32: -532115666
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_33: -7637502
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_34: -266930383
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_35: -18899155
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_36: 446891518
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_37: -898597634
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_38: 1795586088
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_39: -433962892
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_4: 1775104182
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_40: -647679500
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_41: -2070362228
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_42: -1505419145
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_43: 1761630737
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_44: -1787104675
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_45: -56654594
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_46: 1783316678
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_47: 1509954061
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_48: 645877443
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_49: -1177362530
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_5: 173296382
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_50: -2079541164
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_51: -582719437
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_52: -1545873516
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_53: 1927171934
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_54: -558106830
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_55: -1139014141
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_56: -2107809625
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_57: -493406582
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_58: -191700894
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_59: -928575636
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_6: -175016958
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_60: -378162472
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_61: -476334826
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_62: 329721454
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_63: 1991860129
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_64: 1514924881
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_65: 871719012
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_66: 1717740852
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_67: 1329563239
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_68: 1490834144
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_69: 848953618
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_7: 793846360
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_70: 1727530421
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_71: 356181561
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_72: 1037196546
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_8: -994046267
+      Power Rangers Super Sentai Customs - Midoranger Kamen Rider Club-Style_9: -1758454931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
