@@ -1,5 +1,4 @@
 ﻿using System;
-using Ink.Parsed;
 using Ink.Runtime;
 using UnityEngine;
 using UnityEngine.UI;
@@ -19,14 +18,7 @@ public class BasicInkExample : MonoBehaviour {
 		story = new Story (inkJSONAsset.text);
         if(OnCreateStory != null) OnCreateStory(story);
 		RefreshView();
-
-        //_story.BindExternalFunction("ShowCharacter", (string name, string position)
-    //=> Debug.Log($"Show character called. {name}, {position}"));
-
-
-		//_story.BindExternalFunction("HideCharacter", (string name)
-           // => Debug.Log($"Hide character called. {name}"));
-    }
+	}
 	
 	// This is the main function called every time the story changes. It does a few things:
 	// Destroys all the old content and choices.
