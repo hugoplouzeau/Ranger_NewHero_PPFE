@@ -1,7 +1,3 @@
-EXTERNAL ShowCharacter (Braqueur, Upper Right)
-EXTERNAL HideCHaracter (Braqueur)
-
-
 Dans un monde où être un Rangers n’est qu’un boulot mal payé, tirant parti de l’image des Fighter Rangers après qu’ils aient défait la dernière menace cosmique, Yuuki lui enfile chaque jour son costume vert et enchaîne les missions sans grande importance.
 Mais un jour, alors qu’une prise d’otage à lieux dans une banque où il effectue une mission, les malfrats ne vérifient pas les toilettes et c’est alors au Ranger Vert Yuuki de sauver la situation, de devenir un véritable Fighter Ranger.
 ->Commencer
@@ -11,7 +7,6 @@ Mais un jour, alors qu’une prise d’otage à lieux dans une banque où il eff
 ->Debut
  
 ==Debut== 
-{ShowCharacter ("Braqueur", "Upper Right")}
 Alors que Yuuki termine de vider sa vessie, il entend du grabuge à l'extérieur, puis plus un bruit, des pas s'approche de la porte et en regardant au-dessus de celle-ci, il aperçoit un homme cagoulé, armé d'un pistolet. C'est un braquage, une prise d'otage même.
  
 Que va faire Yuuki ?
@@ -34,8 +29,6 @@ GAME OVER. RECOMMENCEZ.
 ->Recommencer
 
 ==BonChoix1==
-{HideCHaracter("Braqueur")}
-
 Une fois sortie des toilettes, Yuuki regarde autour de lui et réfléchit. Il peut se rendre à la salle de surveillance, sonner l'alarme silencieuse et repérer les positions des braqueurs, ou il peut se rendre au local technique, il y aura sûrement de quoi se défendre là-bas.
 
 Que va faire Yuuki ?
